@@ -47,3 +47,6 @@ img{
   flex-wrap: wrap;
   justify-content: space-around;
 }
+.filter-btn{
+  padding: 10px;
+}
