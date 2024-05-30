@@ -45,6 +45,7 @@ img{
 .res-card-container{
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
 }
 .filter-btn{
   padding: 10px;
@@ -66,5 +67,5 @@ img{
 }
 .filter-btn{
   display: flex;
-  margin-left: 10px;
+  margin-left: 100px;
 }
