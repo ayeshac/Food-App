@@ -69,3 +69,66 @@ img{
   display: flex;
   margin-left: 100px;
 }
+.menu{
+  margin: auto;
+}
+.res-details-card{
+  width: 700px;
+  height: 150px;
+  border-radius: 20px;
+  border: 1px solid grey;
+  background: linear-gradient(rgb(255, 255, 255) -6.71%, rgb(235, 235, 242) 56.19%, rgb(223, 223, 231) 106.56%);
+  padding: 0px 16px 16px;
+  border-bottom-left-radius: 36px;
+  border-bottom-right-radius: 36px;
+  border: 1px solid rgba(2, 6, 12, 0.15);
+  background: white;
+  box-shadow: rgba(0, 0, 0, 0.04) 0px 8px 16px 0px;
+}
+.res-details{
+  border-radius: 20px;
+   margin: 20px;
+    display: flex;
+    flex-direction: row;
+    -webkit-font-smoothing: antialiased;
+    font-family: Basis_Grotesque_Pro_Bold;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: -0.3px;
+    color: rgba(2, 6, 12, 0.92);
+}
+.cost-message{
+  -webkit-font-smoothing: antialiased;
+  font-family: Basis_Grotesque_Pro_Bold;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 19px;
+  letter-spacing: -0.3px;
+  color: rgba(2, 6, 12, 0.92);
+  margin-left: 10px;
+}
+.dot{
+  -webkit-font-smoothing: antialiased;
+  font-family: Basis_Grotesque_Pro;
+  font-weight: 200;
+  font-size: 14px;
+  line-height: 19px;
+  letter-spacing: -0.3px;
+  color: rgba(2, 6, 12, 0.45);
+  margin-left: 10px;
+}
+.cuisines{
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+  letter-spacing: -0.1px;
+  color: rgb(241, 87, 0);
+  margin-left: 20px;
+}
+.area{
+  margin: 20px ;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+}
